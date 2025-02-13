@@ -1,5 +1,6 @@
-## Introduction Video
-[![Introduction Video](http://img.youtube.com/vi/1lwVaNmXAPs/0.jpg)](https://youtu.be/1lwVaNmXAPs)
+## Introduction Video (Click to Youtube)
+
+[![Introduction Video](https://github.com/user-attachments/assets/bd8efb60-c69c-40f8-a4c1-524aae30ae00)](https://youtu.be/1lwVaNmXAPs)
 
 <!--
 
